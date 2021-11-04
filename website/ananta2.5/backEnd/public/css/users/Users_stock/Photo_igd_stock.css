@@ -1,0 +1,7 @@
+.Photo_igd_stock {
+    border-radius: 10%;
+    max-width: 100%;
+}
+html {
+    font-size: calc(60% + 0.8vmin);
+}

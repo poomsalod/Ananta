@@ -1,0 +1,78 @@
+.colblock {
+    background-color: ffffff; 
+    margin-top: 5%; 
+    padding: 2%; 
+    border-radius: 10px;
+    height: 50%;
+}
+
+.rowfoodinfo{
+    margin-top: 2%; 
+}
+
+.colfoodinfo{
+    text-align: left;
+}
+
+#profileDisplay { 
+    display: block; 
+    max-width: 100%;
+    height: 132px;
+    object-fit: cover;
+    border-radius: 10%;
+}
+
+.img_migd{
+    width: 100px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 10%;
+}
+
+.lainfo{
+    margin-bottom: 0;
+}
+
+.colhead1{
+    text-align: left; 
+    margin-bottom:2%
+}
+
+.colhead2{
+    text-align: right; 
+    margin-bottom:2%
+}
+
+.sphead{
+    font-size: 105%;
+}
+
+.img_igd{
+    border-radius: 10%;
+    height: 100;
+    width: 100;
+    object-fit: cover;
+}
+
+.tbb{
+    white-space: nowrap;
+}
+
+.txt-over{	
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+.txt-over:hover {
+    text-overflow: inherit;
+    overflow: visible;
+}
+
+.rowFoodInfo{
+    margin-top: 5;
+}
+.colborder{
+    padding-left: 30;
+    padding-right: 30;
+}

@@ -1,0 +1,28 @@
+.ipMIGD {
+    width: 100%;
+}
+
+.haedline {
+    font-size: 200%;
+}
+
+.line3 {
+    text-align: center;
+}
+
+.colblock {
+    background-color: ffffff; 
+    margin-top: 5%; 
+    padding: 2%; 
+    border-radius: 10px;
+}
+
+#profileDisplay { 
+    display: block; 
+    max-width: 50%;
+    max-height: 150px;
+    object-fit: cover;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}

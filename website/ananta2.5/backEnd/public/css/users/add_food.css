@@ -1,0 +1,48 @@
+.rating-css div {
+    color: #ffe400;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 20;
+}
+.rating-css input {
+display: none;
+}
+.rating-css input + label {
+font-size: 15px;
+text-shadow: 1px 1px 0 #8f8420;
+cursor: pointer;
+}
+.rating-css input:checked + label ~ label {
+color: #b4afaf;
+}
+.rating-css label:active {
+transform: scale(0.8);
+transition: 0.3s ease;
+}
+
+.checked{
+    color: #ff9100;
+}
+.ddg{
+    color: #e6e6e6;
+}
+/* .colblock {
+    background-color: ffffff; 
+    margin-top: 5%; 
+    padding: 2%; 
+    border-radius: 10px;
+} */
+.tbb{
+    white-space: nowrap;
+}
+.rog {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+html {
+    font-size: calc(60% + 0.8vmin);
+}

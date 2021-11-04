@@ -1,0 +1,30 @@
+.colblock {
+    background-color: ffffff; 
+    margin-top: 5%; 
+    padding: 2%; 
+    border-radius: 10px;
+    height: 50%;
+}
+
+.colhead1{
+    margin-bottom: 10;
+}
+
+.haedline1 {
+    font-size: 200%;
+}
+
+.tbb{
+    white-space: nowrap;
+}
+
+.img_igd{
+    border-radius: 10%;
+    height: 100;
+    width: 100;
+    object-fit: cover;
+}
+
+.table_img{
+    width: 170px;
+}

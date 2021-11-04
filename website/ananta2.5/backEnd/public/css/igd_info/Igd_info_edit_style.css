@@ -1,0 +1,53 @@
+.ipMIGD {
+    width: 100%;
+}
+
+.haedline {
+    font-size: 200%;
+}
+
+.rowMarginT5{
+    margin-top: 5%;
+}
+
+.rowMarginT2{
+    margin-top: 2%;
+}
+.colblock {
+    background-color: ffffff; 
+    margin-top: 5%; 
+    padding: 2%; 
+    border-radius: 10px;
+}
+
+.line1 {
+    text-align: left; 
+    padding: 1% 0%;
+}
+
+.line2 {
+    text-align: center; 
+    padding: 0% 1%;
+}
+
+.line3 {
+    text-align: center;
+}
+
+.line4 {
+    text-align: right; 
+    padding: 1% 0%;
+    
+}
+
+#profileDisplay { 
+    display: block; 
+    max-width: 50%;
+    max-height: 150px;
+    object-fit: cover;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

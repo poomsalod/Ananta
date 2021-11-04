@@ -1,0 +1,36 @@
+body {
+    background-color: #eeeeee; 
+    font-family: 'Itim', cursive;
+    /* font-family: 'Sarabun', sans-serif; */
+    /* font-family: 'Bai Jamjuree', sans-serif; */
+}
+
+.colblock {
+    background-color: ffffff; 
+    padding: 2%; 
+    border-radius: 10px;
+}
+
+.martop{
+    margin-top: 5%;
+}
+
+footer{
+    margin-top: 5%;
+}
+
+.img_card{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.img_logo{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+html {
+    font-size: calc(60% + 0.8vmin);
+}

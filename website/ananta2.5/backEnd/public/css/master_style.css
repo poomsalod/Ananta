@@ -1,0 +1,20 @@
+body {
+    background-color: #eeeeee; 
+    font-family: 'Itim', cursive;
+    /* font-family: 'Sarabun', sans-serif; */
+    /* font-family: 'Bai Jamjuree', sans-serif; */
+}
+
+.nav-master {
+    background-color: #222222;
+}
+
+.fontcolorpower{
+    color: #FF6347;
+}
+
+.img_avatar{
+    width: 32;
+    height: 32;
+    object-fit: cover;
+}

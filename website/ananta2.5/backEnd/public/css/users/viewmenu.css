@@ -1,0 +1,50 @@
+html {
+    font-size: calc(60% + 0.8vmin);
+}
+.rating-css div {
+    color: #ff9100;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+.rating-css input {
+display: none;
+}
+.rating-css input + label {
+font-size: 60px;
+
+cursor: pointer;
+}
+.rating-css input:checked + label ~ label {
+color: #e6e6e6;
+}
+.rating-css label:active {
+transform: scale(0.8);
+transition: 0.3s ease;
+}
+.ddg{
+    color: #e6e6e6;
+}
+.checked{
+    color: #ff9100;
+}
+.tbb{
+    white-space: nowrap;
+}
+.rog {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+}
+.staar{
+    /* font-size: 30; */
+    font-size: clamp(20px, 2.5vw, 30px);
+    margin-bottom: 5%;
+}
+/* .star-icon{
+    font-size: clamp(20px, 2.5vw, 30px);
+} */
+
